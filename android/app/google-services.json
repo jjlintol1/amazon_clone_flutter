@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "302164498929",
+    "project_id": "clone-5d9da",
+    "storage_bucket": "clone-5d9da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302164498929:android:5f1371c4f5e773bbed0c50",
+        "android_client_info": {
+          "package_name": "jjlintol.app.amazon_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302164498929-ckojo941m42hqrd2rhu9q7od31ntimjg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRukOEC2WCaTe-iSzzTtvkrz2fs1p-frM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302164498929-ckojo941m42hqrd2rhu9q7od31ntimjg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
