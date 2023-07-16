@@ -1,16 +1,19 @@
-# amazon_clone
+# Amazon Clone Flutter
 
-A new Flutter project.
+![License](https://img.shields.io/badge/license-MIT-blue)
 
-## Getting Started
+Amazon Clone is a mobile application built with Flutter that replicates the core features and user interface of the Amazon app. The app provides a familiar shopping experience for users, allowing them to browse through products, add items to their cart, and make purchases. With its clean design and intuitive navigation, Amazon Clone aims to provide a seamless shopping experience for both iOS and Android users.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- User authentication for secure login and registration.
+- Product catalog with categories, search functionality, and filters.
+- Detailed product pages with images, descriptions, and reviews.
+- Shopping cart functionality for adding and managing items.
+- Responsive layout for optimal viewing on different devices.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Tech stack
+- Flutter frontend
+- Firebase backend
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project is my implementation of the following tutorial: https://www.youtube.com/watch?v=HmY87B1LlPk
